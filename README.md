@@ -8,3 +8,7 @@ Hey hey hey we in Section Nine
 This is just a file
 
 Some more changes for tags
+
+## GETTING STARTED
+
+This is to fix the issue
